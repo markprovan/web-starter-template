@@ -31,6 +31,11 @@
   float: right;
 }
 
+.frame {
+  width: 100%;
+  margin: 0px auto;
+}
+
 /* Alternative for IE8  */
 .last-type {
   padding:5px;
